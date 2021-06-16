@@ -10,7 +10,7 @@
     "grunt-contrib-connect": "^0.4.2",
     "grunt-contrib-copy": "0.4.x",
     "grunt-contrib-cssmin": "0.6.x",
-    "grunt-contrib-jade": "0.8.x",
+    "grunt-contrib-jade": "0.15.0",
     "grunt-contrib-uglify": "0.2.x",
     "grunt-sass": "^0.17.0",
     "grunt-contrib-concat": "^0.5.0",
